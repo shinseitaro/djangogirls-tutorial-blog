@@ -12,6 +12,10 @@
 + VS Code Extension https://marketplace.visualstudio.com/items?itemName=ms-python.python
 + [Windows のみ]　Path設定
 
+## あると便利
+
++ [DB Browser for SQLite](http://sqlitebrowser.org/)
+
 
 
 
