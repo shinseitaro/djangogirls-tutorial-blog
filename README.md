@@ -15,10 +15,3 @@
 
 
 
-
-pa_autoconfigure_django.py --python=3.6 https://github.com/shinseitaro/djangogirls-tutorial-blog.git
-
-
-frh34028
-frh34028@eveav.com
-kumapon
